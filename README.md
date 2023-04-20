@@ -1,6 +1,6 @@
-<h2 align="center"> Adrià Alfonso Medero </h2>
-<h3 align="center"> CS Student at the University of Barcelona </h3>
-<h5 align="center"> adriaalfonsomedero@gmail.com </h5>
+<h2 align="left"> Adrià Alfonso Medero </h2>
+<h3 align="left"> CS Student at the University of Barcelona </h3>
+<h5 align="leftr"> adriaalfonsomedero@gmail.com </h5>
 
 <h3 align="left">About me:</h3>
 Welcome to my GitHub profile! I'm a third-year Computer Science student currently studying at the University of Barcelona. I have a real passion for programming and love to explore new areas such as computer graphics, AI, security, video games, etc.
