@@ -10,7 +10,7 @@ Collaboration is also something that I value greatly, and I find it incredibly r
 
 On my GitHub account, you can find some of my personal projects that I've worked on. I'm always looking for new and exciting ways to apply my programming skills and am open to any ideas or collaborations!
 
-<h3 align="left">Contact with me:</h3>
+<h3 align="left">Contact with me:</h3> 
 <p align="left">
 <a href="https://instagram.com/adria.am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adria.am" height="30" width="40" /></a>
 </p>
