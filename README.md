@@ -19,4 +19,4 @@ On my GitHub account, you can find some of my personal projects that I've worked
 
 <h3 align="left">Languages and Tools:</h3>
 
-Java, C, C++, SQL, R, Python, Linux, Git/Github, Arduino, etc.
+Java, C, C++, SQL, R, Python, Linux, Git/Github, Arduino, HTML, CSS, etc.
