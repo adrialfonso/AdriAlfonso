@@ -1,3 +1,4 @@
+![your_cool_intro (5)](https://user-images.githubusercontent.com/90824134/234554182-a2773b19-97ea-4d5c-900f-f9101ddab98a.gif)
 <h2 align="left"> Adrià Alfonso Medero </h2>
 <h3 align="left"> CS Student at the University of Barcelona </h3>
 <h5 align="leftr"> adriaalfonsomedero@gmail.com </h5>
