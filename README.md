@@ -6,7 +6,7 @@
 <h3 align="left">About me:</h3>
 Welcome to my GitHub profile! I'm a third-year Computer Science student currently studying at the University of Barcelona. I have a real passion for programming and love to explore new areas such as computer graphics, AI, security, video games, etc.
 
-One of the things I enjoy the most is taking on new challenges and embarking on personal projects. I'm always eager to learn and expand my skills, whether that's by trying out a new programming language or experimenting with a new technology.
+One of the things I enjoy the most is taking on new challenges and embarking on personal projects. I'm always eager to learn and expand my skills.
 
 Collaboration is also something that I value greatly, and I find it incredibly rewarding to work in a team. It's always amazing to see how different perspectives can lead to creative solutions and produce amazing results.
 
