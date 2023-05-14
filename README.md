@@ -18,6 +18,8 @@ On my GitHub account, you can find some of my personal projects that I've worked
  <a href="https://www.linkedin.com/in/adri%C3%A0-alfonso-medero-9b76121b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriaalfonsomedero" height="30" width="40" /></a>
 </p>
 
+My personal website: https://adrialfonso.github.io/My-Personal-Website/
+
 <h3 align="left">Languages and Tools:</h3>
 
 Java, C, C++, C#, SQL, R, Python, Linux, Git/Github, Arduino, Unity Engine, HTML, CSS, etc.
