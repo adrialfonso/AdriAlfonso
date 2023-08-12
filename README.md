@@ -21,4 +21,4 @@ My personal website: https://adrialfonso.github.io/My-Personal-Website/
 
 <h3 align="left">Languages and Tools:</h3>
 
-Java, C, C++, C#, SQL, R, Python, Linux, Git/Github, Arduino, Unity Engine, HTML, CSS, etc.
+Java, C, C++, C#, SQL, R, Python, Linux, Bash, Git/Github, Arduino, Unity Engine, HTML, CSS, etc.
